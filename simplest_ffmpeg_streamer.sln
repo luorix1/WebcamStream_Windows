@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simplest_ffmpeg_streamer", "simplest_ffmpeg_streamer\simplest_ffmpeg_streamer.vcxproj", "{49621BC9-12D1-4225-A43A-47B21B7ADF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49621BC9-12D1-4225-A43A-47B21B7ADF6D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49621BC9-12D1-4225-A43A-47B21B7ADF6D}.Debug|Win32.Build.0 = Debug|Win32
+		{49621BC9-12D1-4225-A43A-47B21B7ADF6D}.Release|Win32.ActiveCfg = Release|Win32
+		{49621BC9-12D1-4225-A43A-47B21B7ADF6D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0AD1E2E-0080-4430-8CC5-78A52C4F0FB3}
+	EndGlobalSection
+EndGlobal
